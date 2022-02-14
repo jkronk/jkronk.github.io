@@ -36346,15 +36346,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
  .u-footer {
-  background-image: none;
+  background-image: url("images/CircuitBoard2BW.jpg");
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 164px;
+  min-height: 185px;
 }
 
 .u-footer .u-text-1 {
-  margin: 49px 299px 49px 362px;
+  width: 479px;
+  margin: 45px auto 0;
 }
 
 .u-footer .u-btn-1 {
@@ -36363,43 +36364,26 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 417px;
-    margin-left: 262px;
-    margin-right: 199px;
+    min-height: 153px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-left: 152px;
-    margin-right: 89px;
+    min-height: 117px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-left: 61px;
-    margin-right: 0;
+    min-height: 88px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 36px;
+    min-height: 55px;
   }
 
   .u-footer .u-text-1 {
     width: 340px;
-    margin-left: 0;
   }
 }
 
